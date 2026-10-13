@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:2ee6d6&height=180&section=header&text=PHẠM GIA HƯNG&fontColor=ffffff&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:2ee6d6&height=180&section=header&text=PHAM GIA HUNG&fontColor=ffffff&fontSize=60" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2EE6D6&center=true&vCenter=true&width=500&lines=AI+Security+Engineering;CS+%40+HCMUT;Computer+Vision+%7C+UAV+%26+Re-ID" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=2EE6D6&center=true&vCenter=true&width=500&lines=AI+Security+Engineering;CSE+%40+HCMUT;Computer+Vision+%7C+UAV+%26+Re-ID" />
 
 <br><br>
 
